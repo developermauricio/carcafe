@@ -1,0 +1,732 @@
+# Copyright (C) 2020 AWSM Team Pro
+# This file is distributed under the same license as the AWSM Team Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: AWSM Team Pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: AWSM innovations <hello@awsm.in>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: awsm-team.php:135, awsm-team.php:136, awsm-team.php:558
+msgid "Awsm Team"
+msgstr ""
+
+#: awsm-team.php:146, includes/popup.php:24
+msgid "Select Team"
+msgstr ""
+
+#: awsm-team.php:306, awsm-team.php:1856
+msgid "Team not found"
+msgstr ""
+
+#: awsm-team.php:309, awsm-team.php:1859
+msgid "No members found"
+msgstr ""
+
+#: awsm-team.php:379
+msgid "All"
+msgstr ""
+
+#: awsm-team.php:459
+msgid "No Teams"
+msgstr ""
+
+#: awsm-team.php:495, awsm-team.php:646
+msgid "Team Member"
+msgstr ""
+
+#: awsm-team.php:496
+msgid "Team Members"
+msgstr ""
+
+#: awsm-team.php:500, awsm-team.php:1926, includes/class-team-elementor-widget.php:33, includes/beaver-builder/awsmteam/awsmteam.php:26
+msgid "AWSM Team"
+msgstr ""
+
+#: awsm-team.php:501
+msgid "Add New Member"
+msgstr ""
+
+#. translators: %s: singular term
+#. translators: %s: singular term
+#: awsm-team.php:503, awsm-team.php:561
+msgid "Add %s"
+msgstr ""
+
+#. translators: %s: singular term
+#. translators: %s: singular term
+#: awsm-team.php:505, awsm-team.php:563
+msgid "New %s"
+msgstr ""
+
+#. translators: %s: singular term
+#. translators: %s: singular term
+#: awsm-team.php:507, awsm-team.php:565
+msgid "Edit %s"
+msgstr ""
+
+#. translators: %s: singular term
+#. translators: %s: plural term
+#. translators: %s: singular term
+#. translators: %s: plural term
+#: awsm-team.php:509, awsm-team.php:519, awsm-team.php:567, awsm-team.php:576
+msgid "View %s"
+msgstr ""
+
+#. translators: %s: singular term
+#: awsm-team.php:511, awsm-team.php:874, includes/team-details.php:18
+msgid "Members"
+msgstr ""
+
+#. translators: %s: plural term
+#. translators: %s: plural term
+#: awsm-team.php:513, awsm-team.php:570
+msgid "Search %s"
+msgstr ""
+
+#. translators: %s: plural term
+#. translators: %s: plural term
+#: awsm-team.php:515, awsm-team.php:572
+msgid "No %s found"
+msgstr ""
+
+#. translators: %s: plural term
+#. translators: %s: plural term
+#: awsm-team.php:517, awsm-team.php:574
+msgid "No %s found in trash"
+msgstr ""
+
+#. translators: %s: singular term
+#. translators: %s: singular term
+#. translators: %s: singular term
+#: awsm-team.php:521, awsm-team.php:578, awsm-team.php:626
+msgid "%s published."
+msgstr ""
+
+#. translators: %s: singular term
+#. translators: %s: singular term
+#: awsm-team.php:523, awsm-team.php:580
+msgid "%s published privately."
+msgstr ""
+
+#. translators: %s: singular term
+#. translators: %s: singular term
+#: awsm-team.php:525, awsm-team.php:582
+msgid "%s reverted to draft."
+msgstr ""
+
+#. translators: %s: singular term
+#. translators: %s: singular term
+#: awsm-team.php:527, awsm-team.php:584
+msgid "%s scheduled."
+msgstr ""
+
+#. translators: %s: singular term
+#. translators: %s: singular term
+#. translators: %s: singular term
+#. translators: %s: singular term
+#: awsm-team.php:529, awsm-team.php:586, awsm-team.php:618, awsm-team.php:622
+msgid "%s updated."
+msgstr ""
+
+#. translators: %s: plural term
+#. translators: %s: plural term
+#: awsm-team.php:534, awsm-team.php:591
+msgid "This is where you can create and manage %s."
+msgstr ""
+
+#: awsm-team.php:553, awsm-team.php:647, awsm-team.php:802, includes/class-team-elementor-widget.php:73, includes/team-settings.php:80
+msgid "Team"
+msgstr ""
+
+#: awsm-team.php:554, awsm-team.php:568
+msgid "Teams"
+msgstr ""
+
+#: awsm-team.php:559, awsm-team.php:989, awsm-team.php:989, includes/popup.php:38
+msgid "Add Team"
+msgstr ""
+
+#. translators: %1$s: singular term, %2$s: date and time of the revision
+#: awsm-team.php:624
+msgid "%1$s restored to revision from %2$s."
+msgstr ""
+
+#. translators: %s: singular term
+#: awsm-team.php:628
+msgid "%s saved."
+msgstr ""
+
+#. translators: %s: singular term
+#: awsm-team.php:630
+msgid "%s submitted."
+msgstr ""
+
+#. translators: %1$s: singular term, %2$s: scheduled date
+#: awsm-team.php:632
+msgid "%1$s scheduled for: %2$s."
+msgstr ""
+
+#. translators: %s: singular term
+#: awsm-team.php:634
+msgid "%s draft updated."
+msgstr ""
+
+#. translators: %s: member count
+#: awsm-team.php:661
+msgid "%s team member updated."
+msgid_plural "%s team members updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: member count
+#: awsm-team.php:663
+msgid "%s team member not updated, somebody is editing it."
+msgid_plural "%s team members not updated, somebody is editing them."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: member count
+#: awsm-team.php:665
+msgid "%s team member permanently deleted."
+msgid_plural "%s team members permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: member count
+#: awsm-team.php:667
+msgid "%s team member moved to the Trash."
+msgid_plural "%s team members moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: member count
+#: awsm-team.php:669
+msgid "%s team member restored from the Trash."
+msgid_plural "%s team members restored from the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: team count
+#: awsm-team.php:674
+msgid "%s team updated."
+msgid_plural "%s teams updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: team count
+#: awsm-team.php:676
+msgid "%s team not updated, somebody is editing it."
+msgid_plural "%s teams not updated, somebody is editing them."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: team count
+#: awsm-team.php:678
+msgid "%s team permanently deleted."
+msgid_plural "%s teams permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: team count
+#: awsm-team.php:680
+msgid "%s team moved to the Trash."
+msgid_plural "%s teams moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: team count
+#: awsm-team.php:682
+msgid "%s team restored from the Trash."
+msgid_plural "%s teams restored from the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: awsm-team.php:694
+msgctxt "taxonomy general name"
+msgid "Filters"
+msgstr ""
+
+#: awsm-team.php:695
+msgctxt "taxonomy singular name"
+msgid "Filter"
+msgstr ""
+
+#: awsm-team.php:696
+msgid "Search Filters"
+msgstr ""
+
+#: awsm-team.php:697
+msgid "Popular Filters"
+msgstr ""
+
+#: awsm-team.php:698
+msgid "All Filters"
+msgstr ""
+
+#: awsm-team.php:701
+msgid "Edit Filter"
+msgstr ""
+
+#: awsm-team.php:702
+msgid "Update Filter"
+msgstr ""
+
+#: awsm-team.php:703
+msgid "Add New Filter"
+msgstr ""
+
+#: awsm-team.php:704
+msgid "New Filter Name"
+msgstr ""
+
+#: awsm-team.php:705
+msgid "Separate Filters with commas"
+msgstr ""
+
+#: awsm-team.php:706
+msgid "Add or remove Filters"
+msgstr ""
+
+#: awsm-team.php:707
+msgid "Choose from the most used Filters"
+msgstr ""
+
+#: awsm-team.php:708
+msgid "No Filters found."
+msgstr ""
+
+#: awsm-team.php:709, awsm-team.php:803
+msgid "Filters"
+msgstr ""
+
+#: awsm-team.php:783
+msgid "Please upload square-cropped photos with a minimum dimension of 500px"
+msgstr ""
+
+#: awsm-team.php:799, awsm-team.php:873, templates/table.php:22
+msgid "Name"
+msgstr ""
+
+#: awsm-team.php:800
+msgid "Photo"
+msgstr ""
+
+#: awsm-team.php:801, includes/member-details.php:14, templates/table.php:25
+msgid "Designation"
+msgstr ""
+
+#: awsm-team.php:875
+msgid "Preset"
+msgstr ""
+
+#: awsm-team.php:876, includes/team-details.php:149
+msgid "Style"
+msgstr ""
+
+#: awsm-team.php:877, awsm-team.php:916
+msgid "Shortcode"
+msgstr ""
+
+#: awsm-team.php:916, awsm-team.php:939
+msgid "Copy"
+msgstr ""
+
+#: awsm-team.php:938
+msgid "Copied"
+msgstr ""
+
+#: awsm-team.php:940
+msgid "Press \"Ctrl + C\" to copy"
+msgstr ""
+
+#: awsm-team.php:941
+msgid "Oops! something wrong happened"
+msgstr ""
+
+#: awsm-team.php:942
+msgid "Select filters"
+msgstr ""
+
+#: awsm-team.php:990, awsm-team.php:990, includes/class-team-elementor-widget.php:64, includes/beaver-builder/awsmteam/awsmteam.php:79
+msgid "Settings"
+msgstr ""
+
+#: awsm-team.php:999
+msgid "Member Details"
+msgstr ""
+
+#: awsm-team.php:1000
+msgid "Team Details"
+msgstr ""
+
+#: awsm-team.php:1001
+msgid "Add to team"
+msgstr ""
+
+#: awsm-team.php:1620
+msgid "Not a valid member ID!"
+msgstr ""
+
+#: awsm-team.php:1624, awsm-team.php:1692
+msgid "Not authorized to make this request!"
+msgstr ""
+
+#: awsm-team.php:1629
+msgid "Team name cannot be emtpy!"
+msgstr ""
+
+#: awsm-team.php:1646
+msgid "Error while creating new team"
+msgstr ""
+
+#: awsm-team.php:1688
+msgid "Not a valid team ID!"
+msgstr ""
+
+#: awsm-team.php:1697
+msgid "Invalid request!"
+msgstr ""
+
+#: awsm-team.php:1924
+msgid "Select"
+msgstr ""
+
+#: awsm-team.php:1925
+msgid "Nothing to insert"
+msgstr ""
+
+#: awsm-team.php:1947
+msgid "AWSM Team Pro"
+msgstr ""
+
+#. translators: %1$s: plugin latest version, %2$s: plugin name, %3$s: html content
+#: awsm-team.php:1949
+msgid "There is a new version %1$s of %2$s available. %3$s"
+msgstr ""
+
+#. translators: %1$s: Opening anchor tag, %2$s: closing anchor tag
+#: awsm-team.php:1968
+msgid "Please %1$s activate your copy%2$s of AWSM Team Pro to receive automatic updates."
+msgstr ""
+
+#: awsm-team.php:2168
+msgid "Thank you, your purchase code has been verified."
+msgstr ""
+
+#: awsm-team.php:2171
+msgid "Something is wrong! "
+msgstr ""
+
+#: awsm-team.php:2171
+msgid "Either the purchase key is invalid or your support license is expired. "
+msgstr ""
+
+#: awsm-team.php:2171
+msgid "Renew Support"
+msgstr ""
+
+#: awsm-team.php:2214
+msgid "The prefix fields for Deep linking settings are required!"
+msgstr ""
+
+#: awsm-team.php:2218
+msgid "The member prefix and the team prefix cannot be the same."
+msgstr ""
+
+#: awsm-team.php:2224, includes/team-settings.php:119
+msgid "The prefix/suffix should only contain alphanumeric, latin characters separated by hyphen/underscore, and cannot begin or end with a hyphen/underscore."
+msgstr ""
+
+#: awsm-team.php:2250
+msgid "Dismiss"
+msgstr ""
+
+#: awsm-team.php:2265
+msgid "Error in dismissing the notice. Please try again!"
+msgstr ""
+
+#: awsm-team.php:2270
+msgid "You don&#8217;t have the permission to dismiss this notice!"
+msgstr ""
+
+#: includes/choose-teams.php:17
+msgid "Select teams this member belongs from the list or create a new one."
+msgstr ""
+
+#: includes/choose-teams.php:42, includes/choose-teams.php:44
+msgid "+ Add New Team"
+msgstr ""
+
+#: includes/choose-teams.php:46
+msgid "Add New Team"
+msgstr ""
+
+#: includes/class-team-elementor-widget.php:75
+msgid "0"
+msgstr ""
+
+#: includes/class-team-elementor-widget.php:97
+msgid "Select a team"
+msgstr ""
+
+#: includes/member-details.php:18
+msgid "Short Description (In 140 characters or less)"
+msgstr ""
+
+#: includes/member-details.php:22
+msgid "Additional Information (for Email, Telephone, Fax, etc)"
+msgstr ""
+
+#: includes/member-details.php:27
+msgid "Label"
+msgstr ""
+
+#: includes/member-details.php:28
+msgid "Content"
+msgstr ""
+
+#: includes/member-details.php:41, includes/member-details.php:51, includes/member-details.php:58
+msgid "ex: Email"
+msgstr ""
+
+#: includes/member-details.php:42, includes/member-details.php:52, includes/member-details.php:59
+msgid "mail@example.com"
+msgstr ""
+
+#: includes/member-details.php:43, includes/member-details.php:53, includes/member-details.php:60, includes/member-details.php:91, includes/member-details.php:104, includes/member-details.php:113
+msgid "Remove"
+msgstr ""
+
+#: includes/member-details.php:64, includes/member-details.php:117
+msgid "Add row"
+msgstr ""
+
+#: includes/member-details.php:66
+msgid "Links (Twitter, LinkedIn, etc)"
+msgstr ""
+
+#: includes/member-details.php:71
+msgid "Icon"
+msgstr ""
+
+#: includes/member-details.php:72
+msgid "Link"
+msgstr ""
+
+#: includes/member-details.php:87, includes/member-details.php:101, includes/member-details.php:110
+msgid "Select icon"
+msgstr ""
+
+#: includes/member-details.php:90, includes/member-details.php:103, includes/member-details.php:112
+msgid "ex: http://www.twitter.com/awsmin"
+msgstr ""
+
+#: includes/popup.php:14
+msgid "Close"
+msgstr ""
+
+#: includes/popup.php:16
+msgid "Choose Team"
+msgstr ""
+
+#: includes/popup.php:38
+msgid "Insert"
+msgstr ""
+
+#: includes/popup.php:38
+msgid "Loading..."
+msgstr ""
+
+#: includes/popup.php:41
+msgid "Cancel"
+msgstr ""
+
+#: includes/team-details.php:19
+msgid "Select members from the dropdown, drag and drop them to reorder."
+msgstr ""
+
+#: includes/team-details.php:27
+msgid "Select members"
+msgstr ""
+
+#: includes/team-details.php:49
+msgid "You haven’t added any team members yet. "
+msgstr ""
+
+#: includes/team-details.php:50
+msgid "Add a team member"
+msgstr ""
+
+#: includes/team-details.php:56
+msgid "No Members Selected"
+msgstr ""
+
+#: includes/team-details.php:102
+msgid "Sorting"
+msgstr ""
+
+#: includes/team-details.php:107
+msgid "Drag and drop"
+msgstr ""
+
+#: includes/team-details.php:108
+msgid "Random order"
+msgstr ""
+
+#: includes/team-details.php:109
+msgid "Order by name"
+msgstr ""
+
+#: includes/team-details.php:110
+msgid "Order by date/time"
+msgstr ""
+
+#: includes/team-details.php:115
+msgid "Asc"
+msgstr ""
+
+#: includes/team-details.php:116
+msgid "Desc"
+msgstr ""
+
+#: includes/team-details.php:123
+msgid "Presets"
+msgstr ""
+
+#: includes/team-details.php:124
+msgid "Choose a preset from below."
+msgstr ""
+
+#. translators: %s: Team demo link
+#: includes/team-details.php:156
+msgid "We have a set of predefined styles for each preset. Choose your favorite. Refer <a href=\"%s\" target=\"_blank\">demo</a>."
+msgstr ""
+
+#: includes/team-details.php:197
+msgid "Enable filters"
+msgstr ""
+
+#: includes/team-details.php:199
+msgid "Check this option to activate filters in the team"
+msgstr ""
+
+#: includes/team-details.php:203
+msgid "Select the filters and drag and drop to reorder them"
+msgstr ""
+
+#: includes/team-details.php:227
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/team-details.php:228
+msgid "Want to add your own colours and flavours? Add your custom CSS in the text box below."
+msgstr ""
+
+#: includes/team-settings.php:29
+msgid "Team Settings"
+msgstr ""
+
+#: includes/team-settings.php:40, includes/team-settings.php:43
+msgid "Team photos"
+msgstr ""
+
+#: includes/team-settings.php:45
+msgid "Disable default image cropping"
+msgstr ""
+
+#: includes/team-settings.php:48
+msgid "Enter custom dimensions"
+msgstr ""
+
+#: includes/team-settings.php:49
+msgid "Width"
+msgstr ""
+
+#: includes/team-settings.php:52
+msgid "Height"
+msgstr ""
+
+#. translators: %1$s: Opening anchor tag, %2$s: closing anchor tag
+#: includes/team-settings.php:57
+msgid "The change will not affect existing images in the website. If you want the existing images to be cropped in the custom dimensions consider using a plugin like %1$sRegenerate Thumbnails%2$s"
+msgstr ""
+
+#: includes/team-settings.php:65, includes/team-settings.php:68
+msgid "Deep linking"
+msgstr ""
+
+#: includes/team-settings.php:70
+msgid "Enable deep linking"
+msgstr ""
+
+#: includes/team-settings.php:73
+msgid "Member"
+msgstr ""
+
+#: includes/team-settings.php:74, includes/team-settings.php:81
+msgid "Prefix"
+msgstr ""
+
+#: includes/team-settings.php:77, includes/team-settings.php:84
+msgid "Suffix"
+msgstr ""
+
+#: includes/team-settings.php:92
+msgid "Envato Purchase Code"
+msgstr ""
+
+#: includes/team-settings.php:96
+msgid "Enter purchase code for AWSM Team Pro. This is required for automatic updates and support. "
+msgstr ""
+
+#: includes/team-settings.php:96
+msgid "NOTE: You need to have a valid"
+msgstr ""
+
+#: includes/team-settings.php:96
+msgid "support license"
+msgstr ""
+
+#: includes/team-settings.php:96
+msgid "for activating automatic updates"
+msgstr ""
+
+#: includes/team-settings.php:102
+msgid "How to get the purchase code"
+msgstr ""
+
+#: templates/table.php:19
+msgid "Image"
+msgstr ""
+
+#: templates/table.php:28
+msgid "Short Description"
+msgstr ""
+
+#: templates/table.php:31
+msgid "Social Links"
+msgstr ""
+
+#: includes/beaver-builder/awsmteam/awsmteam.php:27
+msgid "Awsm team module"
+msgstr ""
+
+#: includes/beaver-builder/awsmteam/awsmteam.php:28
+msgid "AWSM Team Module"
+msgstr ""
+
+#: includes/beaver-builder/awsmteam/awsmteam.php:76
+msgid "General"
+msgstr ""
+
+#: includes/beaver-builder/awsmteam/awsmteam.php:83
+msgid "Select team"
+msgstr ""

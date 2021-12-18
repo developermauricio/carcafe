@@ -1,0 +1,17 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.spacing-primas {
+  height: 100px !important;
+}
+
+
+
+
+@media (max-width: 767.98px) { 
+  .spacing-primas {
+    height: 10px !important;
+  }
+
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

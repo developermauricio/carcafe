@@ -1,0 +1,56 @@
+.awsm-pro-activate-notice {
+    position: relative;
+}
+.awsm-pro-activate-notice .notice-dismiss::before {
+    position: absolute;
+    top: 8px;
+    left: 0;
+    -webkit-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+}
+.awsm-pro-activate-notice .notice-dismiss {
+    position: absolute;
+    z-index: 10;
+    right: 10px;
+    padding: 10px 15px 10px 21px;
+    text-decoration: none;
+}
+.awsm-team-pro-settings [for*="_size_"] {
+    min-width: 10em;
+    vertical-align: baseline;
+}
+.awsm-team-pro-settings .awsm-team-size-field {
+    margin: 0 0 1em;
+}
+.awsm-team-pro-thumbnail-options.show{ 
+    display: block; 
+}
+.awsm-team-pro-thumbnail-options { 
+    display: none; 
+}
+.awsm-team-deep-link-field {
+    margin: 0 0 1em;
+}
+.awsm-team-pro-deep-linking-options.show{ 
+    display: block; 
+}
+.awsm-team-pro-deep-linking-options { 
+    display: none; 
+}
+.awsm-team-pro-error-container {
+    padding: 7px 0px;
+}
+.awsm-team-pro-error {
+    background: #fff;
+    border-left: 4px solid #db4c4c;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+    padding: 7px 12px;
+}
+.awsm-team-pro-error p {
+    margin: .5em 0;
+    padding: 2px;
+}
+.awsm-team-pro-settings [for*="_deep_link_"] {
+    min-width: 10em;
+    vertical-align: baseline;
+}

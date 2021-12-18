@@ -1,0 +1,21 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.img-trabaja-con-nosotros-sec-1 img {
+    height: 385px;
+    object-fit: cover;
+    object-position: center;
+}
+
+
+
+@media (max-width: 767.98px) { 
+  .email-resum {
+      margin-bottom: 1.5rem;
+  }
+  .uplod-resumen {
+    margin-bottom: 1.5rem;
+  }
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->

@@ -1,0 +1,26 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.slider-caficultores .owl-nav .owl-prev {
+  left: -1rem;
+}
+.slider-caficultores .owl-nav .owl-next {
+  right: -1rem;
+}
+
+.img-comercioantes-mp img {
+    height: 300px;
+    object-fit: cover;
+}
+
+
+
+@media (max-width: 767.98px) { 
+  .slider-caficultores .owl-nav .owl-prev {
+    left: -0.3rem;
+  }
+  .slider-caficultores .owl-nav .owl-next {
+    right: 1rem;
+  }
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

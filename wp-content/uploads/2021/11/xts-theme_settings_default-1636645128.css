@@ -1,0 +1,224 @@
+.page-title-default{
+	background-color:#0a0a0a;
+	background-size:cover;
+	background-position:center center;
+}
+
+.footer-container{
+	background-color:rgb(0,0,0);
+}
+
+:root{
+--wd-text-font:"NeueHasasDispĺay Thin", Arial, Helvetica, sans-serif;
+--wd-text-font-weight:500;
+--wd-text-color:rgb(10,10,10);
+--wd-text-font-size:19px;
+}
+:root{
+--wd-title-font:"NeueHasasDispĺay bold", Arial, Helvetica, sans-serif;
+--wd-title-font-weight:700;
+--wd-title-color:#242424;
+}
+:root{
+--wd-entities-title-font:"NeueHasasDispĺay Thin", Arial, Helvetica, sans-serif;
+--wd-entities-title-font-weight:500;
+--wd-entities-title-color:rgb(10,10,10);
+--wd-entities-title-color-hover:rgb(51 51 51 / 65%);
+}
+:root{
+--wd-alternative-font:"NeueHasasDispĺay Thin", Arial, Helvetica, sans-serif;
+}
+:root{
+--wd-widget-title-font:"NeueHasasDispĺay Thin", Arial, Helvetica, sans-serif;
+--wd-widget-title-font-weight:600;
+--wd-widget-title-transform:uppercase;
+--wd-widget-title-color:rgb(10,10,10);
+--wd-widget-title-font-size:20px;
+}
+:root{
+--wd-header-el-font:"NeueHasasDispĺay bold", Arial, Helvetica, sans-serif;
+--wd-header-el-font-weight:600;
+--wd-header-el-transform:uppercase;
+--wd-header-el-font-size:13px;
+}
+:root{
+--wd-primary-color:#339059;
+}
+:root{
+--wd-alternative-color:#fbbc34;
+}
+:root{
+--wd-link-color:#333333;
+--wd-link-color-hover:#242424;
+}
+:root{
+--btn-default-bgcolor:#f7f7f7;
+}
+:root{
+--btn-default-bgcolor-hover:#efefef;
+}
+:root{
+--btn-shop-bgcolor:#339059;
+}
+:root{
+--btn-shop-bgcolor-hover:#1e6a3d;
+}
+:root{
+--btn-accent-bgcolor:#339059;
+}
+:root{
+--btn-accent-bgcolor-hover:#1e6a3d;
+}
+:root{
+--notices-success-bg:#459647;
+}
+:root{
+--notices-success-color:#fff;
+}
+:root{
+--notices-warning-bg:#E0B252;
+}
+:root{
+--notices-warning-color:#fff;
+}
+.wd-popup.wd-promo-popup{
+	background-color:#111111;
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position:left center;
+}
+
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: "woodmart-font";
+	src: url("//carcafe-test.creategicalatina.com/wp-content/themes/woodmart/fonts/woodmart-font.woff?v=6.0.4") format("woff"),
+	url("//carcafe-test.creategicalatina.com/wp-content/themes/woodmart/fonts/woodmart-font.woff2?v=6.0.4") format("woff2");
+}
+
+	:root{
+	
+	
+			--wd-form-brd-radius: 0px;
+	
+	--wd-form-brd-width: 2px;
+
+	--btn-default-color: #333;
+	--btn-default-color-hover: #333;
+
+	--btn-shop-color: #fff;
+	--btn-shop-color-hover: #fff;
+
+	--btn-accent-color: #fff;
+	--btn-accent-color-hover: #fff;
+			--btn-default-brd-radius: 0px;
+		--btn-default-box-shadow: none;
+		--btn-default-box-shadow-hover: none;
+		--btn-default-box-shadow-active: none;
+		--btn-default-bottom: 0px;
+	
+			--btn-shop-brd-radius: 0px;
+		--btn-shop-box-shadow: none;
+		--btn-shop-box-shadow-hover: none;
+		--btn-shop-box-shadow-active: none;
+		--btn-shop-bottom: 0px;
+	
+			--btn-accent-brd-radius: 0px;
+		--btn-accent-box-shadow: none;
+		--btn-accent-box-shadow-hover: none;
+		--btn-accent-box-shadow-active: none;
+		--btn-accent-bottom: 0px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		}
+
+	/* Site width */
+		/* Header Boxed */
+	@media (min-width: 1025px) {
+		.whb-boxed:not(.whb-sticked):not(.whb-full-width) .whb-main-header {
+			max-width: 1192px;
+		}
+	}
+
+	.container {
+		max-width: 1222px;
+	}
+	
+	
+	@media (min-width: 1222px) {
+
+		[data-vc-full-width]:not([data-vc-stretch-content]) {
+			padding-left: calc((100vw - 1222px) / 2);
+			padding-right: calc((100vw - 1222px) / 2);
+		}
+
+		.platform-Windows [data-vc-full-width]:not([data-vc-stretch-content]) {
+			padding-left: calc((100vw - 1239px) / 2);
+			padding-right: calc((100vw - 1239px) / 2);
+		}
+	}
+
+	
+/* Quick view */
+div.wd-popup.popup-quick-view {
+	max-width: 920px;
+}
+
+/* Shop popup */
+div.wd-popup.wd-promo-popup {
+	max-width: 800px;
+}
+
+/* Age verify */
+div.wd-popup.wd-age-verify {
+	max-width: 500px;
+}
+
+/* Header Banner */
+.header-banner {
+	height: 40px;
+}
+
+body.header-banner-display .website-wrapper {
+	margin-top:40px;
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+	/* header Banner */
+	.header-banner {
+		height: 40px;
+	}
+	
+	body.header-banner-display .website-wrapper {
+		margin-top:40px;
+	}
+}
+
+.woodmart-woocommerce-layered-nav .wd-scroll-content {
+	max-height: 280px;
+}
+		
+@font-face {
+	font-family: "NeueHasasDispĺay Thin";
+	src: url("//carcafe-test.creategicalatina.com/wp-content/uploads/2021/08/NeueHaasDisplay-Thin.woff") format("woff"), 
+url("//carcafe-test.creategicalatina.com/wp-content/uploads/2021/08/NeueHaasDisplay-Thin.woff2") format("woff2");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "NeueHasasDispĺay bold";
+	src: url("//carcafe-test.creategicalatina.com/wp-content/uploads/2021/08/NeueHaasDisplay-Bold.woff") format("woff"), 
+url("//carcafe-test.creategicalatina.com/wp-content/uploads/2021/08/NeueHaasDisplay-Bold.woff2") format("woff2");
+	font-weight: 700;
+	font-style: normal;
+}
+

@@ -1,0 +1,203 @@
+/*
+ Theme Name:   Woodmart Child
+ Description:  Woodmart Child Theme
+ Author:       XTemos
+ Author URI:   http://xtemos.com
+ Template:     woodmart
+ Version:      1.0.0
+ Text Domain:  woodmart
+*/
+
+/***  Estilos Page HOME  ***/
+.wpb_text_column.wpb_content_element.img-about-us {
+    width: 100%;
+    height: 70vh;
+}
+
+.color-green {
+	color: #007749;
+}
+
+.content-text-nuestro-aporte {
+    padding: 0 2.5rem;
+    font-size: 1rem;
+}
+.content-img-children {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: bottom;
+    padding: 2rem;
+}
+div#content-programa-nariño {
+    background: #00000094;
+}
+
+.content-sider-programa {
+    padding: 1rem 2rem 1rem 0;
+}
+
+img#map-our-products {
+    height: 80vh;
+}
+
+.vc_tta-style-modern.vc_tta-tab>a {
+    border-color: #c8bba1 !important;
+    background-color: #707070 !important;
+    color: #fff !important;
+}
+.vc_tta-style-modern.vc_tta-tab.vc_active>a {
+    border-color: #f0f0f0 !important;
+    background-color: #007749 !important;
+    color: #fff !important;
+}
+div#content-form-product {
+    background: #00000099;
+    padding: 4rem 0;
+}
+
+
+/*  Estilos formularios  */
+.fields-form {
+	background-color: #FFF !important;
+    border-radius: 20px !important;
+}
+input#btnsubmit {
+    border-radius: 20px;
+    background: #2a784a;
+    color: #fff;
+    padding: 0.7rem 1.5rem;
+}
+.acceptance-655 span.wpcf7-list-item-label {
+	color: #fff;
+}
+input.aceptacion {
+    width: 1.3rem;
+    height: 1.3rem;
+}
+input#btn-resumen {
+    background: #007749;
+    color: #fff;
+    padding: 0.7rem 2rem;
+    border-radius: 20px;
+}
+
+
+/* estilos de quienes somos */
+.content-mision {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img.img-mision {
+    width: 100%;
+    height: 10rem;
+}
+h2.title-mision {
+    position: absolute;
+    z-index: 3;
+    color: #fff;
+    font-size: 2rem;
+}
+h4.wd-timeline-title {
+    font-size: 2rem;
+    color: #007749;
+	margin-bottom: 0px !important;
+}
+.wd-timeline-wrapper {
+    padding-top: 50px !important;
+}
+.wd-timeline-item {
+    margin-bottom: 0px !important; 
+}
+.timeline-col.timeline-col-primary {
+    box-shadow: 0 0 4px rgb(0 0 0 / 13%);
+}
+.wd-item-position-left .timeline-col-primary .timeline-arrow:before {
+    content: "\f153";
+    text-shadow: 2px 0 2px #0000002e;
+}
+.wd-item-position-right .timeline-col-primary .timeline-arrow:before {
+    content: "\f152";
+    text-shadow: -2px 0 2px #0003;
+}
+.timeline-col.timeline-col-primary {
+    padding: 5px 15px 0 !important;
+}
+
+/**  Estilos casa matriz  **/
+.content-column-matriz {
+    background: #00000094;
+}
+.content-img-matriz {
+	text-align: right;
+    padding-right: 3rem;
+}
+img.img-edf {
+    width: 65%;
+}
+img.img-cafe-matriz {
+    width: 100%;
+    height: 140vh;
+    object-fit: cover;
+}
+img.img-body-matriz {
+    width: 90%;
+    height: 45vh;
+    object-fit: cover;
+}
+.content-text-matriz {
+    background: #0000009e;
+	padding: 4rem 0rem;
+}
+.content-global-links {
+    /*background: #00000087;*/
+    padding: 5rem 2rem;
+}
+.background-img-logos {
+	background: #007749;
+}
+
+/* Estilos página comerciantes */
+.content-comerciantes {
+    background: #00000094;
+}
+img.img-services {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+.content-tabs {
+	padding: 0.6rem 2rem;
+}
+
+/**  Estilos form cafitultores  **/
+input#btncompra {
+    background: #2a784a;
+    color: #fff;
+    border-radius: 22px;
+    padding: 0.8rem 2rem;
+}
+
+/**  Estilos del footer  **/
+.footer-sidebar {
+    padding-top: 15px !important;
+    padding-bottom: 0px !important;
+}
+.footer-column {
+    margin-bottom: 0px !important;
+}
+
+
+
+
+/***  Estilos para Movil  ***/
+@media (max-width: 768px) { 
+	.space-fields {
+    	margin-top: 1.2rem;
+	}
+	.wd-item-position-left, .wd-item-position-right {
+		padding: 0px 3px 5px !important;
+	}
+	
+}

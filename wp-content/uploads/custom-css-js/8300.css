@@ -1,0 +1,10 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.img-verificaciones {
+    display: flex;
+    justify-content: center;
+}
+img.logo-verificaciones {
+    width: 200px;
+}</style>
+<!-- end Simple Custom CSS and JS -->
