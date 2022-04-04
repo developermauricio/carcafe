@@ -1,0 +1,8 @@
+2022-03-25T15:16:29+00:00 CRITICAL require(): Failed opening required '/home/forge/carcafe-test.aicode-test.art/wp-admin/widgets-form-blocks.php' (include_path='.:/usr/share/php') en /home/forge/carcafe-test.aicode-test.art/wp-admin/widgets.php en la línea 31
+
+2022-03-25T15:16:43+00:00 CRITICAL require(): Failed opening required '/home/forge/carcafe-test.aicode-test.art/wp-admin/widgets-form-blocks.php' (include_path='.:/usr/share/php') en /home/forge/carcafe-test.aicode-test.art/wp-admin/widgets.php en la línea 31
+
+2022-03-25T15:18:46+00:00 CRITICAL require(): Failed opening required '/home/forge/carcafe-test.aicode-test.art/wp-admin/widgets-form-blocks.php' (include_path='.:/usr/share/php') en /home/forge/carcafe-test.aicode-test.art/wp-admin/widgets.php en la línea 31
+
+2022-03-25T19:26:15+00:00 CRITICAL require(): Failed opening required '/home/forge/carcafe-test.aicode-test.art/wp-admin/edit-form-blocks.php' (include_path='.:/usr/share/php') en /home/forge/carcafe-test.aicode-test.art/wp-admin/post.php en la línea 187
+

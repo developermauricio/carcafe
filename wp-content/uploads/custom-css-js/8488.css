@@ -1,0 +1,40 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+#spacing-sobre-nosotros {
+ 	height: 140px !important; 
+}
+
+
+.redes-sociales-footer {
+	padding-top: 4rem;
+}
+
+.style-text-volcafe {
+    text-align: justify;
+    color: white;
+    padding-right: 1rem;
+}
+
+.breadcrumbs {
+    display: none;
+}
+
+
+
+@media (max-width: 767.98px) { 
+  #spacing-sobre-nosotros {
+    height: 10px !important; 
+  }
+
+  .img-about-us {
+    height: auto !important;
+  }
+  
+  .redes-sociales-footer {
+	padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

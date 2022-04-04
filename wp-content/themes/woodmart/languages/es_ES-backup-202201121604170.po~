@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-02-02 01:27+0000\n"
+"PO-Revision-Date: 2021-03-29 23:08+0000\n"
 "Last-Translator: \n"
 "Language-Team: Español\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -9634,7 +9634,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/products.php:544
 #: inc/widgets/class-widget-layered-nav.php:75
 msgid "OR"
-msgstr ""
+msgstr "Ó"
 
 #: inc/integrations/elementor/elements/class-product-filters.php:280
 #: inc/integrations/elementor/elements/products/class-products.php:223
@@ -13020,7 +13020,7 @@ msgstr ""
 #: inc/integrations/woocommerce/template-tags.php:1604
 #: woocommerce/myaccount/form-login.php:95
 msgid "Password"
-msgstr ""
+msgstr "Contraseña"
 
 #: inc/integrations/woocommerce/template-tags.php:1615
 msgid "Log in"
@@ -13551,7 +13551,7 @@ msgstr ""
 
 #: inc/template-tags.php:452
 msgid "Posted by"
-msgstr ""
+msgstr "Creado por"
 
 #: inc/template-tags.php:454
 msgid "By"
@@ -13567,7 +13567,7 @@ msgstr ""
 
 #: inc/template-tags.php:555
 msgid "Newer"
-msgstr ""
+msgstr "Siguiente"
 
 #: inc/template-tags.php:564
 msgid "Back to list"
@@ -13575,7 +13575,7 @@ msgstr ""
 
 #: inc/template-tags.php:572
 msgid "Older"
-msgstr ""
+msgstr "Anterior"
 
 #: inc/template-tags.php:622
 msgid "Newer Posts &rarr;"
@@ -13949,7 +13949,7 @@ msgstr ""
 
 #: inc/widgets/class-widget-recent-posts.php:91
 msgid "No Comments"
-msgstr ""
+msgstr "No hay comentarios"
 
 #: inc/widgets/class-widget-recent-posts.php:93
 msgid "%s Comments"

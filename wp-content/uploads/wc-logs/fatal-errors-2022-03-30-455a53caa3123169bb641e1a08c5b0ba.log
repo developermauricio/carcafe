@@ -1,0 +1,4 @@
+2022-03-30T12:35:40+00:00 CRITICAL require(): Failed opening required '/home/forge/carcafe-test.aicode-test.art/wp-admin/widgets-form-blocks.php' (include_path='.:/usr/share/php') en /home/forge/carcafe-test.aicode-test.art/wp-admin/widgets.php en la línea 31
+
+2022-03-30T20:32:18+00:00 CRITICAL require(): Failed opening required '/home/forge/carcafe-test.aicode-test.art/wp-admin/edit-form-blocks.php' (include_path='.:/usr/share/php') en /home/forge/carcafe-test.aicode-test.art/wp-admin/post.php en la línea 187
+

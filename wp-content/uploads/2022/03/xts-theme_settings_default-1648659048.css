@@ -92,8 +92,8 @@
 	font-weight: normal;
 	font-style: normal;
 	font-family: "woodmart-font";
-	src: url("//carcafe-test.creategicalatina.com/wp-content/themes/woodmart/fonts/woodmart-font.woff?v=6.0.4") format("woff"),
-	url("//carcafe-test.creategicalatina.com/wp-content/themes/woodmart/fonts/woodmart-font.woff2?v=6.0.4") format("woff2");
+	src: url("//carcafe-test.aicode-test.art/wp-content/themes/woodmart/fonts/woodmart-font.woff?v=6.0.4") format("woff"),
+	url("//carcafe-test.aicode-test.art/wp-content/themes/woodmart/fonts/woodmart-font.woff2?v=6.0.4") format("woff2");
 }
 
 	:root{
@@ -208,17 +208,33 @@ body.header-banner-display .website-wrapper {
 		
 @font-face {
 	font-family: "NeueHasasDispĺay Thin";
-	src: url("//carcafe-test.creategicalatina.com/wp-content/uploads/2021/08/NeueHaasDisplay-Thin.woff") format("woff"), 
-url("//carcafe-test.creategicalatina.com/wp-content/uploads/2021/08/NeueHaasDisplay-Thin.woff2") format("woff2");
+	src: url("//carcafe-test.aicode-test.art/wp-content/uploads/2021/08/NeueHaasDisplay-Thin.woff") format("woff"), 
+url("//carcafe-test.aicode-test.art/wp-content/uploads/2021/08/NeueHaasDisplay-Thin.woff2") format("woff2");
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: "NeueHasasDispĺay bold";
-	src: url("//carcafe-test.creategicalatina.com/wp-content/uploads/2021/08/NeueHaasDisplay-Bold.woff") format("woff"), 
-url("//carcafe-test.creategicalatina.com/wp-content/uploads/2021/08/NeueHaasDisplay-Bold.woff2") format("woff2");
+	src: url("//carcafe-test.aicode-test.art/wp-content/uploads/2021/08/NeueHaasDisplay-Bold.woff") format("woff"), 
+url("//carcafe-test.aicode-test.art/wp-content/uploads/2021/08/NeueHaasDisplay-Bold.woff2") format("woff2");
 	font-weight: 700;
 	font-style: normal;
 }
 
+#woodmart-recent-posts-7{
+	display:none !important
+}
+#woodmart-instagram-8{
+	display:none !important
+}
+
+.article-body-container p{
+	text-align:justify !important
+}
+.single-post-social{
+	display:none !important
+}
+/*.mapsvg-data-form-view{
+display:none !important
+}*/

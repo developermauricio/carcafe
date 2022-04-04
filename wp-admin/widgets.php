@@ -27,6 +27,7 @@ if ( ! current_theme_supports( 'widgets' ) ) {
 $title       = __( 'Widgets' );
 $parent_file = 'themes.php';
 
+//require ABSPATH . 'wp-admin/widgets-form.php';
 if ( wp_use_widgets_block_editor() ) {
 	require ABSPATH . 'wp-admin/widgets-form-blocks.php';
 } else {

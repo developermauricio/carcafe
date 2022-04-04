@@ -1,5 +1,17 @@
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
+/* esto es del block */
+.meta-post-categories {
+    display: none !important;
+}
+.entry-meta.wd-entry-meta {
+    display: none !important;
+}
+.hovered-social-icons {
+    display: none !important;
+}
+
+
 .spacing-primas {
   height: 100px !important;
 }

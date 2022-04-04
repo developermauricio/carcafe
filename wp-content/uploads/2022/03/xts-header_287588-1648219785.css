@@ -14,20 +14,6 @@
 	height: 50px;
 }
 
-.whb-header-bottom .wd-dropdown {
-	margin-top: 6px;
-}
-
-.whb-header-bottom .wd-dropdown:after {
-	height: 16px;
-}
-
-
-.whb-header-bottom .wd-header-cats {
-	margin-top: -0px;
-	margin-bottom: -0px;
-	height: calc(100% + 0px);
-}
 
 
 @media (min-width: 1025px) {
@@ -51,16 +37,7 @@
 		max-height: 120px;
 	}
 		
-		.whb-header-bottom-inner {
-		height: 52px;
-		max-height: 52px;
-	}
-
-		.whb-sticked .whb-header-bottom-inner {
-		height: 52px;
-		max-height: 52px;
-	}
-		
+	
 	
 	}
 
